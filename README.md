@@ -4,7 +4,7 @@ O contexto é a implementação de um site e-commerce no período da Black Frida
 
 📖 Descrição do projeto
 
-📊 Diagrama de arquitetura (se quiser, depois só colocar a imagem)
+📊 Diagrama de arquitetura
 
 📌 Tecnologias e serviços usados
 
@@ -23,7 +23,7 @@ Projeto de arquitetura em nuvem na AWS para suportar alta demanda de acessos e p
 
 Diagrama da arquitetura implementada:
 
-![Diagrama da Arquitetura](./arquitetura_blackfriday.png)
+![Diagrama da Arquitetura](./arquitetura_blackfriday.png.png)
 
 > 💡 **Legenda:**  
 > ✅ Elastic Load Balancer  

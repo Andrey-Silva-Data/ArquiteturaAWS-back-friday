@@ -54,7 +54,7 @@ Diagrama da arquitetura implementada:
 - **Computer Optimizer** — Otimiza o uso da EC2.
 - **Cost Explorer** — Otimização de custos.
 - **Cognito** — Serviço de autenticação, autorização e gerenciamento de usuários para suas aplicações web e mobile.
-- **API Gateway** — Conexão pela internet.
+- **API Gateway** — gerenciador de criação, publicação, segurança, monitoramento e manutenção de APIs REST, HTTP e WebSocket.
 - **IAM** — Serviço de gerenciamento de identidades e permissões na AWS.
 - **CloudFront** — Distribuir conteúdo web, imagens, vídeos, arquivos ou APIs globalmente com baixa latência.
 - **Amplify** — Desenvolvimento e hospedagem de aplicações web e mobile full-stack serverless.

@@ -100,7 +100,7 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 
 Andrey Silva  
 [🔗 LinkedIn][(https://www.linkedin.com/in/techprofessional-AndreySilva/)]  
-✉️ Email: technologyprofessiona2023@gmail.com
+✉️ Email: technologyprofessional2023@gmail.com
 
 ---
 

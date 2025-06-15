@@ -1,4 +1,4 @@
-# Arquitetura AWS-back-friday
+# Arquitetura AWS-Black-friday
 O contexto é a implementação de um site e-commerce no período da Black Friday cuja arquitetura garanta alta disponibilidade, escalabilidade automática e processamento por evento.
 
 
@@ -37,11 +37,27 @@ Diagrama da arquitetura implementada:
 > ✅ VPC Flow Logs  
 > ✅ AWS CloudTrail  
 > ✅ AWS Trusted Advisor  
+> ✅ DynamoDB  
+> ✅ Computer Optimizer  
+> ✅ Cost Explorer
+> ✅ Cognito 
+> ✅ API Gateway 
+> ✅ IAM  
+> ✅ CloudFront
+> ✅ Amplify
 
 ---
 
 ## 📌 Tecnologias e Serviços AWS Utilizados
 
+- **DynamoDB** — Banco de Dados NoSQL.
+- **Computer Optimizer** — Otimiza o uso da EC2.
+- **Cost Explorer** — Otimização de custos.
+- **Cognito** — Serviço de autenticação, autorização e gerenciamento de usuários para suas aplicações web e mobile.
+- **API Gateway** — Conexão pela internet.
+- **IAM** — Serviço de gerenciamento de identidades e permissões na AWS.
+- **CloudFront** — Distribuir conteúdo web, imagens, vídeos, arquivos ou APIs globalmente com baixa latência.
+- **Amplify** — Desenvolvimento e hospedagem de aplicações web e mobile full-stack serverless.
 - **Elastic Load Balancer** — Distribuição de carga entre instâncias.
 - **Auto Scaling Group** — Escalabilidade automática de EC2.
 - **Amazon S3** — Armazenamento de arquivos promocionais e pedidos.

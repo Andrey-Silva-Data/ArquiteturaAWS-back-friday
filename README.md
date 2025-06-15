@@ -39,12 +39,12 @@ Diagrama da arquitetura implementada:
 > ✅ AWS Trusted Advisor  
 > ✅ DynamoDB  
 > ✅ Computer Optimizer  
-> ✅ Cost Explorer 
-> ✅ Cognito 
-> ✅ API Gateway 
+> ✅ Cost Explorer  
+> ✅ Cognito  
+> ✅ API Gateway  
 > ✅ IAM   
-> ✅ CloudFront 
-> ✅ Amplify
+> ✅ CloudFront  
+> ✅ Amplify 
  
 ---
 
